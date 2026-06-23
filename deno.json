@@ -6,6 +6,6 @@
     "@std/assert": "jsr:@std/assert@1"
   },
   "fmt": {
-    "exclude": [".github", "CHNAGELOG.md"]
+    "exclude": [".github", "CHANGELOG.md"]
   }
 }
